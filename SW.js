@@ -28,7 +28,7 @@ self.addEventListener('install', evento=>{
                 'img/main.jpg',
                 'js/app.js',
                 'img/no-img.jpeg',
-                'pages/offline.html'
+                'pages/offline.html',
             ]);
         });
 
